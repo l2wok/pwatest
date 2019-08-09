@@ -3,7 +3,10 @@
 # Framework specific
 vendor/
 composer.lock
+
 app/Config/*
+nbproject/*
+
 # Local development files
 composer.dev.json
 composer.dev.lock
